@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+submission.csv
+data/df_train_feat_sample.csv
+data/processes_test.csv
+data/processes_train.csv
+data/processes_valid.csv
